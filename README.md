@@ -2,7 +2,7 @@
 ## Design and Development
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm an Ethiopian Python Developer named Firaol Degefa. Learning new languages and frameworks like dgango, Flask, React.js, Express.js, and Nest.j really appeals to me. I also like designing in general, including ux, ui, and wireframing.
+I'm Firaol Degefa an Ethiopian Python Developer with a passion for learning new programming languages and frameworks such as Django, Flask, React.js, Express.js, and Nest.js. I also enjoys design, including user interfaces, user experiences, and wireframing. my commitment to continuous learning and growth, combined with his versatile skill set, make him a valuable asset in the tech industry.
 
 ### Skills and Experience
 * 🚴‍♂️Dgango
