@@ -1,4 +1,4 @@
-# Hi there 👋, Firaol Degefa
+# Hi there 👋, I'm Firaol Degefa
 ## Design and Development
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
